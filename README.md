@@ -3,6 +3,8 @@ Production-grade FastAPI service that predicts a customer’s probability of chu
 
 Tech: Python, scikit-learn, FastAPI, pytest
 
+Article on pytest: https://medium.com/@vamsikd219/pytest-the-secret-weapon-for-reliable-python-projects-c4e6eacf2a71
+
 ## Features
 
 - End-to-end pipeline: train → save → serve → test
